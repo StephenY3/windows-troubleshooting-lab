@@ -44,6 +44,8 @@ PING: transmit failed. General failure.
 
 This confirmed that the workstation could not communicate with the external IP address.
 
+![Connectivity failure](../connectivity-failure.png)
+
 **2. Test DNS resolution**
 
 The following command was then used:
