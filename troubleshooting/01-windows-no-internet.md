@@ -33,8 +33,7 @@ The Windows network settings confirmed that Wi-Fi was switched off.
 
 The following command was used:
 
-```powershell
-ping 8.8.8.8
+"ping 8.8.8.8"
 
 Result:
 
